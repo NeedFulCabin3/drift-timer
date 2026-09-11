@@ -1,0 +1,11 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor directories
+.vscode/
+.idea/
+
+# Local build artifacts and logs
+*.log
+.cache/
